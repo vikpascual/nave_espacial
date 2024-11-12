@@ -1,0 +1,99 @@
+﻿  main.cpp
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(28,33): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(78,49): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(82,27): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(84,55): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(91,28): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(93,56): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(99,26): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(101,54): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(107,26): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(109,54): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(189,125): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(189,119): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(201,115): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(201,109): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(211,131): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(211,125): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(221,125): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(221,119): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(232,115): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(243,114): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(485,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(485,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(512,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(512,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(512,41): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(513,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(513,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(513,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(514,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(514,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(514,40): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(539,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(539,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(539,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(541,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(541,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(541,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(574,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(574,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(574,44): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(576,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(576,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(576,42): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(611,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(611,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(611,42): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(612,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(613,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(613,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(613,40): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(649,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(649,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(649,42): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(651,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(651,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(651,40): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(686,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(686,33): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(686,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(716,31): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(716,36): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(716,40): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(717,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(717,33): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(717,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(718,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(718,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(718,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(733,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(746,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(753,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(753,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(755,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(755,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(817,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(817,18): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(817,11): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(854,27): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(856,27): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(905,21): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(917,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(922,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(977,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1001,25): warning C4244: '*=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1003,48): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1008,57): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1018,58): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1026,54): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1031,54): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1070,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1186,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\main.cpp(1187,22): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  2 of 135 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  PracticaFinal.vcxproj -> C:\Users\vikpa\Desktop\UPV\SGI\Practicas\PracticaFinal\PracticaFinal.exe

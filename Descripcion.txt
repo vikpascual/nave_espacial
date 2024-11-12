@@ -1,0 +1,41 @@
+W: Moverse en dirección frontal de la nave
+S: Frenar
+A: Rotacion nave hacia la izquierda
+D: Rotacion nave hacia la derecha
+L: Apagar/Encender luces
+B: Mover/Bloquear cabeza 
+C: Ocultar/Mostrar nave 
+Click izquierdo: Disparar
+Click derecho: Mostrar menu
+Rueda hacia arriba: Acelerar paso del tiempo(sin limite)
+Rueda hacia abajo: Frenar paso del tiempo(hasta pararse)
+Mover ratón: Controlar dirección cámara
+esc: Salir
+ 
+He implementado:
+
+- Rotación/alabeo de la nave con las teclas "a" y derecha "d".
+- Menu contextual click derecho
+- Acelerar o frenar el tiempo con la rueda del raton
+- Recreación de algo parecido al sistema solar, cada planeta con su orbita y rotacion, en el caso de la luna, respecto de la tierra.(Venus, Marte, Tierra, Luna, Júpiter y el     SOL). No he puesto más porque los fps explotaban.
+- Colisión de la nave con los cuerpos celestes y destrucción de los cuerpos celestes
+- Posicion inicial de los planetas es aleatoria
+- Disparo de la nave con click izquierdo
+- He añadido una biblioteca de audio que me permite:
+	1. Poner o quitar musica desde el menu (He puesto 3 pistas: 1.Outer wilds 2.The blue danube(música clásica) 3.Getout(música por defecto de la libreria))
+	2. Cuando disparamos suene el sonido bláster de Star Wars
+	3. Sonido de explosion, cuando la nave se choca con algún planeta o destruimos algún planeta
+
+- Se han utilizado diversos materiales/texturas para los planetas. Las texturas de los planetas las he sacado de aquí: https://www.solarsystemscope.com/textures/
+Los parámetros de brillo, especular, difusa, etc... son arbitrarios, los he ido variando de un planeta a otro conforme me parecía, por ejemplo marte refleja mas luz roja que de las demás.
+
+- Cubemap/textura 100% artesanal de la nave creado a partir de 4 capturas de pantalla de un videojuego (elite dangerous). He dejado las diferentes partes del cubemap en la carpeta
+
+- Textura de la pista de aterrizaje y las balas son webs random(la intencion era que las balas fueran luces, pero hay un límite)
+
+- Bloqueo y desbloqueo de la cámara/cabeza con la "b" para ver el interior de la nave
+
+- Recreación del cielo mediante un cubemap en el que indica la dirección(up,down,left...), muy util mientras desarrollaba el simulador (lo he sacado de aqui: https://devforum.roblox.com/t/mapping-of-the-roblox-skybox/132678)
+
+- En la consola aparecen los controles
+
